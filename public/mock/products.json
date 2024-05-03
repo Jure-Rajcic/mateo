@@ -1,0 +1,37 @@
+[
+    {
+        "id": 1,
+        "name": "Ultra HD TV",
+        "description": "55 inch 4K Ultra HD smart LED TV with HDR10 support and Dolby Audio.",
+        "price": 799.99,
+        "category": "Electronics"
+    },
+    {
+        "id": 2,
+        "name": "Blender Pro Max",
+        "description": "High-performance blender with 1200 watts power and 3-speed settings for smoothies, shakes, and more.",
+        "price": 150.00,
+        "category": "Kitchen Appliances"
+    },
+    {
+        "id": 3,
+        "name": "Hybrid Bicycle",
+        "description": "21-speed hybrid bicycle featuring a lightweight aluminum frame and dual disc brakes.",
+        "price": 349.99,
+        "category": "Sports"
+    },
+    {
+        "id": 4,
+        "name": "Professional Acoustic Guitar",
+        "description": "Full-sized acoustic guitar with mahogany body, spruce top, and premium tuners.",
+        "price": 250.00,
+        "category": "Musical Instruments"
+    },
+    {
+        "id": 5,
+        "name": "Gaming Laptop",
+        "description": "High-end gaming laptop with 16GB RAM, 512GB SSD, and the latest GeForce RTX 3070 GPU.",
+        "price": 1499.99,
+        "category": "Computers"
+    }
+]
